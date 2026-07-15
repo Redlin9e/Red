@@ -24,13 +24,13 @@
 
 ---
 
-### 🚀 About me
+### 🚀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
 ```yaml
-Name:       Red
-GitHub:     @Redlin9e
-Role:       Backend-developer
-Status:     I'm writing code while the world is asleep 🌙
+Name:       𝑹𝒆𝒅
+GitHub:     @𝙍𝙚𝙙𝙡𝙞𝙣𝟵𝙚
+Role:       𝗕𝗮𝗰𝗸𝗲𝗻𝗱-𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+Status:     𝕴'𝖒 𝖜𝖗𝖎𝖙𝖎𝖓𝖌 𝖈𝖔𝖉𝖊 𝖜𝖍𝖎𝖑𝖊 𝖙𝖍𝖊 𝖜𝖔𝖗𝖑𝖉 𝖎𝖘 𝖆 𝖘𝖑𝖊𝖊𝖕 🌙
 ```
 
 ---
