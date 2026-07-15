@@ -48,11 +48,10 @@ Status:     I'm writing code while the world is asleep 🌙
 
 ---
 
-### 📊 GitHub Stats
+### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Redlin9e&show_icons=true&theme=dark&hide_border=true&title_color=E60000&icon_color=E60000&text_color=ffffff&bg_color=0d0d0d" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Redlin9e&layout=compact&theme=dark&hide_border=true&title_color=E60000&text_color=ffffff&bg_color=0d0d0d" width="35%" />
 </p>
 
 ---
