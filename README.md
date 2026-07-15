@@ -42,8 +42,6 @@ Status:     I'm writing code while the world is asleep 🌙
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-E60000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=E60000" />
-  <img
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
