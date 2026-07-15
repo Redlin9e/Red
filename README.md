@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=E60000&center=true&vCenter=true&width=600&lines=%F0%9F%94%B4+Hi%2C+I'm+Red;%F0%9F%92%BB+Backend+Developer;%E2%9C%94+%F0%9D%95%B3%F0%9D%96%8A%F0%9D%96%9A%F0%9D%97%81%F0%9D%97%81+%F0%9D%96%A6%E2%9C%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=E60000&center=true&vCenter=true&width=600&lines=%E2%9C%A6+%F0%9D%99%83%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%A1%F0%9D%99%A4%2C+%F0%9D%99%84%27%F0%9D%99%A2+%F0%9D%91%B9%F0%9D%92%86%F0%9D%92%85+%E2%9C%A6;%F0%9F%92%BB+Backend+Developer;%E2%9C%94+%F0%9D%95%B3%F0%9D%96%8A%F0%9D%96%9A%F0%9D%97%81%F0%9D%97%81+%F0%9D%96%A6%E2%9C%A6" alt="Typing SVG" />
 
 </div>
 
