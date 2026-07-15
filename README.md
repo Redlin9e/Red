@@ -27,11 +27,11 @@
 ### 🚀 Обо мне
 
 ```yaml
-Имя:        Red
+Name:        Red
 GitHub:     @Redlin9e
-Роль:       Backend-разработчик
-Статус:     Пишу код, пока весь мир спит 🌙
-Увлечения:  🎱 8 Ball Pool  •  ⌯⁍ Counter-Strike 2
+Role:       Backend-developer
+Status:     I'm writing code while the world is asleep 🌙
+Hobby:  🎱 Ball Pool  •  ⌯⁍ Counter-Strike 2
 ```
 
 ---
