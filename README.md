@@ -57,10 +57,9 @@ Status:     I'm writing code while the world is asleep 🌙
 
 ---
 
-### 🎮 My hobby
+### My hobby
 
 <p align="center">
-  <img src="https://img.shields.io/badge/8_Ball_Pool-1a1a1a?style=for-the-badge&logo=8pool&logoColor=E60000" />
   <img src="https://img.shields.io/badge/Counter--Strike_2-E60000?style=for-the-badge&logo=counterstrike&logoColor=white" />
 </p>
 
