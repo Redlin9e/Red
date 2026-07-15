@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/followers/Redlin9e?label=Followers&style=flat&color=e60000" alt="followers"/>
 </p>
 
-<h1 align="center">🔴 𝗥𝗲𝗱 🔴</h1>
+<h1 align="center">✦ 𝗥𝗲𝗱 ✦</h1>
 <h3 align="center">Backend-разработчик · 𝕯𝖊𝖆𝖙𝖍✦ code, coffee, chaos.exe</h3>
 
 <p align="center">
@@ -31,7 +31,7 @@
 GitHub:     @Redlin9e
 Роль:       Backend-разработчик
 Статус:     Пишу код, пока весь мир спит 🌙
-Увлечения:  🎱 8 Ball Pool  •  🔫 Counter-Strike 2
+Увлечения:  🎱 8 Ball Pool  •  ⌯⁍ Counter-Strike 2
 ```
 
 ---
