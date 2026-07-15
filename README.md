@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">✦ 𝗥𝗲𝗱 ✦</h1>
-<h3 align="center">Backend-разработчик · ✦𝕯𝖊𝖆𝖙𝖍✦ code, 🥤Cola Classic, 🌪️chaos.exe</h3>
+<h3 align="center">Backend-developer · 𝕯𝖊𝖆𝖙𝖍 code, 🥤Cola Classic, 🌪️chaos.exe</h3>
 
 <p align="center">
   <em>"I have to return some code reviews."</em> 🚬
