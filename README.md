@@ -52,12 +52,8 @@ GitHub:     @Redlin9e
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redlin9e&show_icons=true&theme=dark&hide_border=true&title_color=E60000&icon_color=E60000&text_color=ffffff&bg_color=0d0d0d" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redlin9e&layout=compact&theme=dark&hide_border=true&title_color=E60000&text_color=ffffff&bg_color=0d0d0d" width="35%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redlin9e&theme=dark&hide_border=true&background=0D0D0D&ring=E60000&fire=E60000&currStreakLabel=E60000" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Redlin9e&show_icons=true&theme=dark&hide_border=true&title_color=E60000&icon_color=E60000&text_color=ffffff&bg_color=0d0d0d" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Redlin9e&layout=compact&theme=dark&hide_border=true&title_color=E60000&text_color=ffffff&bg_color=0d0d0d" width="35%" />
 </p>
 
 ---
