@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">✦ 𝗥𝗲𝗱 ✦</h1>
-<h3 align="center">Backend-разработчик · 𝕯𝖊𝖆𝖙𝖍✦ code, 🥤 Cola Classic, chaos.exe</h3>
+<h3 align="center">Backend-разработчик · ✦𝕯𝖊𝖆𝖙𝖍✦ code, 🥤Cola Classic, 🌪️chaos.exe</h3>
 
 <p align="center">
   <em>"I have to return some code reviews."</em> 🚬
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Обо мне
+### 🚀 About me
 
 ```yaml
 Name:       Red
@@ -58,7 +58,7 @@ Hobby:     🎱 Ball Pool  •  ⌯⁍ Counter-Strike 2
 
 ---
 
-### 🎮 Увлечения
+### 🎮 My hobby
 
 <p align="center">
   <img src="https://img.shields.io/badge/8_Ball_Pool-1a1a1a?style=for-the-badge&logo=8pool&logoColor=E60000" />
@@ -71,7 +71,7 @@ Hobby:     🎱 Ball Pool  •  ⌯⁍ Counter-Strike 2
 
 ---
 
-### 📫 Связь со мной
+### 📫 Contact with me
 
 <p align="center">
   <a href="https://github.com/Redlin9e"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=E60000" /></a>
