@@ -56,7 +56,7 @@ Status:     I'm writing code while the world is asleep 🌙
 
 ---
 
-### My hobby
+### 🎲 𝗠𝘆 𝗵𝗼𝗯𝗯𝘆
 
 <p align="center">
   <img src="https://img.shields.io/badge/Counter--Strike_2-E60000?style=for-the-badge&logo=counterstrike&logoColor=white" />
@@ -68,7 +68,7 @@ Status:     I'm writing code while the world is asleep 🌙
 
 ---
 
-### 📫 Contact with me
+### 📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 
 <p align="center">
   <a href="https://github.com/Redlin9e"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=E60000" /></a>
