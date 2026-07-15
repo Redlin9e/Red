@@ -31,7 +31,6 @@ Name:       Red
 GitHub:     @Redlin9e
 Role:       Backend-developer
 Status:     I'm writing code while the world is asleep 🌙
-Hobby:     🎱 Ball Pool  •  ⌯⁍ Counter-Strike 2
 ```
 
 ---
